@@ -7,6 +7,7 @@ etiquetas
 fork
 pull request
 gitignore
-reset
+reset sirve para recuperar una commit que se eliminó
 logs
+
 
