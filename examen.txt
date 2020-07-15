@@ -1,0 +1,12 @@
+branch
+merge
+push 
+commit 
+alias
+etiquetas
+fork
+pull request
+gitignore
+reset
+logs
+
